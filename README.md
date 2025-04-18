@@ -13,6 +13,5 @@
 ⚡ Fun fact: I once tested an app so thoroughly, the dev team asked me to stop finding bugs 😄
 
 <!---
-Aneenapv/Aneenapv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aneenapv ✨ QA Automation Engineer/ Software tester / QA Analyst ✨
+-->
