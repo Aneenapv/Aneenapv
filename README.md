@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on innovative testing frameworks, automation tools, and AI-integrated QA solutions
 
-📫 How to reach me: aneenapv93@gmail.com
+📫 How to reach me: aneenapv93@gmail.com   || pvaneena@gmail.com
 
 😄 Pronouns: She/Her
 
